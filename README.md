@@ -1,4 +1,4 @@
-# Arduino-sketch for-Micromodem
+# Arduino-sketch for Micromodem
 Arduino sketch as firmware for Micromodem (Mark Quist) configured as KISS TNC with 3V3 reference
 
 Micromodem and LibAPRS are 
